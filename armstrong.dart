@@ -16,7 +16,7 @@ void maim(){
   temp=no;
   int sum=0;
   //  getting the sum of digit's power
-  whi 
+  // whi
 
 
   // print(lengthDigist);
